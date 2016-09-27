@@ -1,0 +1,11 @@
+Jason Steck - Spring 15
+
+This program creates a proxy that serves GET requests and caches the results.
+
+
+Default port: 67878
+
+How to use:
+$ python proxy.py
+$ python proxy.py <port>
+
